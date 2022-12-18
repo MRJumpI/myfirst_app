@@ -33,7 +33,7 @@ export default function GameBox(props) {
             if (display == false) setdisplay(true);
             else setdisplay(false);
           }}>
-          <Text style={{ fontSize: 20 }}>{props.content}</Text>
+          <Text style={{ fontSize: 20 ,marginLeft:-3 }}>{props.content}</Text>
         </TouchableOpacity>
       ) : null}
       {display ? (
