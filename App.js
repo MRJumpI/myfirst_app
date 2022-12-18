@@ -163,7 +163,7 @@ export default function App() {
           style={{ flex: 1, flexDirection: 'row', justifyContent: 'center' }}>
           <TouchableOpacity style={styling.btn}>
             <Text
-              style={{ fontSize: 20 }}
+              style={{ fontSize: 20 ,marginTop:2,}}
               onPress={() => {
                 setinfobox(true);
               }}>
