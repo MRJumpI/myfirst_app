@@ -11,7 +11,7 @@
  ---
 > # First Look
  
-    Thats how you See first page. A little detail on top. A little down input that where you can enter your name and that name present at different locations.
+  Thats how you See first page. A little detail on top. A little down input that where you can enter your name and that name present at different locations.
 
 <img src="./ScreenShots/1.png" > 
 
